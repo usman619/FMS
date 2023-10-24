@@ -4,18 +4,17 @@
 1.	Python programming language
 2.	Flask web framework
 3.	Web Browser
-4.	Bash for Windows ([recommended](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/))
 
 ## Version Info
-*	Python 3.8.10
-*	Matplotlib 3.4.3
-*	Flask 2.1.2
-*	Category Encoders 2.5.0
-*	requests 2.27.1
+*	Python 3.11.2
+*	Matplotlib 3.8.0
+*	Flask 2.3.2
+*	Category Encoders 2.6.2
+*	requests 2.31.0
 *	json 2.0.9
-*	numpy 1.22.3
-*	pandas 1.3.3
-*	scikit-learn 1.0.2
+*	numpy 1.26.1
+*	pandas 2.1.1
+*	scikit-learn 1.3.1
 
 ## Python modules installation commands
 *	pip install flask
