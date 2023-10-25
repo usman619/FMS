@@ -1,0 +1,12 @@
+Fertilizer Name,Type,N,P,K
+Urea,Nitrogenous fertilizers,46,0,0
+Ammonium sulphate,Nitrogenous fertilizers,21,0,0
+Calcium Ammonium Nitrate,Nitrogenous fertilizers,26,0,0
+Single Superphosphate,"Phosphatic fertilizers",0,18,0
+Triple superphosphate,"Phosphatic fertilizers",0,46,0
+Diammonium phoshate,"Phosphatic fertilizers",18,46,0
+Monoammonium phoshate,"Phosphatic fertilizers",11,52,0
+Sulphate of postash,"Potassic fertilizers",0,0,50
+Muruate of potash,"Potassic fertilizers",0,0,60
+Nitrophosphate,"Complex fertilizers",23,23,0
+Complete NPKs,"Complex fertilizers",15,15,15
